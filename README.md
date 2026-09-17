@@ -1,3 +1,19 @@
+<div align="center">
+
+# ⚡ LEETCODE ARCHIVE & PERFORMANCE LAB ⚡
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/)
+[![Synced via LeetSync](https://img.shields.io/badge/Synced%20via-LeetSync-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/LeetSync)
+[![Solved](https://img.shields.io/badge/Solved-33%20Problems-6366F1?style=for-the-badge&logo=codeforces&logoColor=white)](#-curated-solutions)
+[![Top Percentile](https://img.shields.io/badge/100%25%20Beats-15%20Solutions-EF4444?style=for-the-badge&logo=speedtest&logoColor=white)](#-hall-of-fame-100-beats)
+
+<p align="center">
+  <b>A curated repository of optimal algorithmic solutions, edge-case dissections, and memory-conscious implementations.</b>
+</p>
+
+---
+
+### 🎯 Quick Metrics
 # LeetCode Solutions & Progress Tracker
 
 A structured archive of solutions to LeetCode algorithmic problems, categorized by topic and pattern, synced automatically via **LeetSync**.
