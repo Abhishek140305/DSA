@@ -8,10 +8,10 @@ Automated archive of algorithmic problem solutions tracked via **LeetSync**, cat
 
 | Difficulty | Count |
 | :--- | :--- |
-| 🟢 Easy | 11 |
-| 🟡 Medium | 26 |
-| 🔴 Hard | 26 |
-| **Total** | **63** |
+| 🟢 Easy | 13 |
+| 🟡 Medium | 32 |
+| 🔴 Hard | 30 |
+| **Total** | **75** |
 
 ---
 
@@ -58,7 +58,7 @@ Automated archive of algorithmic problem solutions tracked via **LeetSync**, cat
 
 ---
 
-### 📈 Dynamic Programming (DP) & Memoization
+### 📈 Dynamic Programming (DP) & Game Theory
 
 #### 🟢 Easy
 * **118** - Pascal's Triangle (`2 ms` | `43.5 MB`)
@@ -73,10 +73,13 @@ Automated archive of algorithmic problem solutions tracked via **LeetSync**, cat
 * **115** - Distinct Subsequences (`25 ms` | `54.3 MB`)
 * **132** - Palindrome Partitioning II (`29 ms` | `47.5 MB`)
 * **140** - Word Break II (`4 ms` | `49 MB`)
-* **977** - Distinct Subsequences II (`3 ms` | `43 MB`)
+* **1685** - Stone Game V (`51 ms` | `54.8 MB`)
+* **174** - Dungeon Game (`0 ms` | `13.1 MB`)
 * **2002** - Stone Game VIII (`293 ms` | `98.7 MB`)
 * **2559** - Maximum Number of Non-Overlapping Palindrome Substrings (`1 ms` | `42.7 MB`)
 * **3470** - Maximum Score from Grid Operations (`1 ms` | `47.7 MB`)
+* **3840** - Find X-Value of Array II (`398 ms` | `304.2 MB`)
+* **977** - Distinct Subsequences II (`3 ms` | `43 MB`)
 
 ---
 
@@ -85,15 +88,19 @@ Automated archive of algorithmic problem solutions tracked via **LeetSync**, cat
 #### 🟢 Easy
 * **121** - Best Time to Buy and Sell Stock (`2 ms` | `94.6 MB`)
 * **125** - Valid Palindrome (`14 ms` | `46.6 MB`)
+* **268** - Missing Number (`0 ms` | `47.4 MB`)
 * **3019** - Furthest Point From Origin (`1 ms` | `43.9 MB`)
 
 #### 🟡 Medium
+* **75** - Sort Colors (`0 ms` | `11.7 MB`)
 * **122** - Best Time to Buy and Sell Stock II (`0 ms` | `46.2 MB`)
 * **128** - Longest Consecutive Sequence (`21 ms` | `77.2 MB`)
 * **134** - Gas Station (`2 ms` | `119.6 MB`)
+* **287** - Find the Duplicate Number (`33 ms` | `33.6 MB`)
 * **1573** - Find Two Non-Overlapping Sub-Arrays Each With Target Sum (`4 ms` | `85.1 MB`)
+* **1776** - Minimum Operations to Reduce X to Zero (`3 ms` | `102.1 MB`)
 * **3811** - Reverse Degree of a String (`1 ms` | `44 MB`)
-* **3831** - Find X-Value of Array I (`12 ms` | `98.4 MB`)
+* **3831** - Find X-Value of Array I (`16 ms` | `106.2 MB`)
 
 #### 🔴 Hard
 * **123** - Best Time to Buy and Sell Stock III (`1 ms` | `75.8 MB`)
@@ -101,21 +108,25 @@ Automated archive of algorithmic problem solutions tracked via **LeetSync**, cat
 * **154** - Find Minimum in Rotated Sorted Array II (`0 ms` | `44.7 MB`)
 * **1644** - Maximum Number of Non-Overlapping Substrings (`35 ms` | `20.2 MB`)
 * **1784** - Minimum Initial Energy to Finish Tasks (`2 ms` | `44.1 MB`)
+* **214** - Shortest Palindrome (`48 ms` | `23.5 MB`)
+* **2319** - Longest Substring of One Repeating Character (`316 ms` | `98.1 MB`)
 * **3562** - Maximum Score of Non-Overlapping Intervals (`122 ms` | `162.3 MB`)
 * **4037** - Lexicographically Smallest Palindromic Permutation Greater Than Target (`374 ms` | `47.7 MB`)
 
 ---
 
-### 🕸️ Graphs, BFS/DFS & Matrix Traversal
+### 🕸️ Graphs, Backtracking & Matrix Traversal
 
 #### 🟡 Medium
 * **130** - Surrounded Regions (`0 ms` | `14.5 MB`)
 * **133** - Clone Graph (`59 ms` | `19.9 MB`)
+* **864** - Image Overlap (`6 ms` | `13.8 MB`)
 * **1663** - Detect Cycles in 2D Grid (`17 ms` | `139.9 MB`)
 
 #### 🔴 Hard
 * **126** - Word Ladder II (`32 ms` | `19.5 MB`)
 * **127** - Word Ladder (`35 ms` | `20.4 MB`)
+* **212** - Word Search II (`235 ms` | `19 MB`)
 
 ---
 
