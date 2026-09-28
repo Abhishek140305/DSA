@@ -142,7 +142,7 @@ Automated archive of algorithmic problem solutions tracked via **LeetSync**, cat
 | 3375 | Kth Smallest Amount With Single Denomination Combination | 🟡 Medium | 50 ms | 66.4 MB |
 | 3583 | Sorted GCD Pair Queries | 🔴 Hard | 38 ms | 116.7 MB |
 | 3635 | Smallest Divisible Digit Product II | 🔴 Hard | 13 ms | 48.3 MB |
-| 3869 | Smallest Index With Digit Sum Equal to Index | 🟢 Easy | 1 ms | 45.4 MB |
+| 3869 | Smallest Index With Digit Sum Equal to Index | 🟢 Easy | 1 ms | 45.4 MB |m
 
 ---
 
