@@ -1,18 +1,24 @@
+
 class Solution {
     public boolean isValidSerialization(String preorder) {
-        int cnt = 0, m = 0;
-        int n = preorder.length();
-        for (int i = 0; i < n; i++) {
-            if (preorder.charAt(i) == ',') continue;
-            while (i < n && preorder.charAt(i) != ',') i++;
-            i--;
-            if (preorder.charAt(i) != '#') cnt++;
-            else m++;
-            if (m == cnt + 1) {
-                if (i == n - 1) return true;
-                else return false;
+
+        int slots = 1;
+
+        String[] nodes = preorder.split(",");
+
+        for (String node : nodes) {
+
+            if (slots == 0) {
+                return false;
+            }
+
+            slots--;
+
+            if (!node.equals("#")) {
+                slots += 2;
             }
         }
-        return false;
+
+        return slots == 0;
     }
 }
